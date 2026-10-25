@@ -1,8 +1,16 @@
 # Hi, I'm Omri Hirsch
 
-I work on software projects spanning natural language processing and concurrent systems. Below are selected team projects I've worked on, with links to the original repositories.
+I build web experiences and explore natural language processing and concurrent systems. Here are selected projects I've worked on, with links to the code and a live demo.
 
 ## Selected projects
+
+### [Villa Azurea: bilingual property website](https://github.com/OmriHrsch/Azurea-Real-Estate)
+
+A single-page property website with an English/French interface, a photo gallery, and property information. Deployed on Vercel, with photos and video served through Vercel Blob.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Vercel Blob.
+
+[View the live website](https://azurea-real-estate.vercel.app/) · [Explore the code](https://github.com/OmriHrsch/Azurea-Real-Estate)
 
 ### [Hebrew NLP: comparing language across eras](https://github.com/Snirbou/NLP-Project)
 
@@ -31,4 +39,4 @@ A Java coursework project exploring concurrent services and asynchronous messagi
 
 ---
 
-These are collaborative projects. The linked repositories preserve the original ownership, team credits, and commit history.
+The NLP and robot simulation projects are collaborative work. Their links point to the original team repositories, preserving ownership, credits, and commit history.
